@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**wexAnderson/wexAnderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="left">My name is  Yehia Mohamed and I'm a Back-end developer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<h4 align="left">✨ Creating bugs since 2022<br><br>📚 I'm currently learning :<br> PostgreSQL with Prisma and exploring advanced backend architectures using Node.js and TypeScript.<br><br>🎯 Goals: <br>- Build scalable and maintainable REST APIs<br>- Dive deeper into microservices and event-driven architecture<br>- Contribute to open-source Node.js projects<br>- Improve problem-solving and algorithm skills<br><br>🎲 Fun fact: As a Manchester United and Zamalek fan, patience is practically my superpower! 😅</h4>
+
+###
+
+
+###
+
+<div align="left">
+</div>
+
+###
